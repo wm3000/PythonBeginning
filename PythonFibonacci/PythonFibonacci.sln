@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonFibonacci", "PythonApplication1\PythonFibonacci.pyproj", "{D88353DD-5849-4A4B-83AB-9673A165A254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D88353DD-5849-4A4B-83AB-9673A165A254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88353DD-5849-4A4B-83AB-9673A165A254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16A0D049-F54F-47D2-BA75-E6B3DD5A605E}
+	EndGlobalSection
+EndGlobal
