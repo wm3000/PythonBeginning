@@ -5,7 +5,25 @@ VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonFibonacci", "PythonApplication1\PythonFibonacci.pyproj", "{D88353DD-5849-4A4B-83AB-9673A165A254}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication2", "PythonApplication2\PythonApplication2.pyproj", "{98DA0300-1668-41C6-A0B0-0F81727FE823}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PrzeliczanieSekund", "PythonApplication2\PrzeliczanieSekund.pyproj", "{98DA0300-1668-41C6-A0B0-0F81727FE823}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HEXtoASCII", "HEXtoASCII\HEXtoASCII.pyproj", "{3F6DD6E1-69F7-499D-A0E7-CEF245213492}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "samogloska", "samogloska\samogloska.pyproj", "{09AD8E52-84BA-4AE0-BA8D-29FFB97B3108}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "parzyste", "parzyste\parzyste.pyproj", "{C0984E8A-C283-474B-A5BE-D0A99A9468BF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PotDwojki", "PotDwojki\PotDwojki.pyproj", "{1B4BBF88-77B5-4912-B2EE-3815297D5E45}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "XRazyImię", "XRazyImię\XRazyImię.pyproj", "{2842EDE0-BF9D-40BF-8C53-0E8665ED82F4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CzujnikiMuzeum", "CzujnikiMuzeum\CzujnikiMuzeum.pyproj", "{9AC14410-A0CF-4334-AAF5-34FBFECC9759}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IleCyfr", "IleCyfr\IleCyfr.pyproj", "{03EA989E-3306-42EF-8BE3-FDE33179EAD5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KolejPotRos", "KolejPotRos\KolejPotRos.pyproj", "{59F9DA46-7BBE-40EA-992A-67C9D0D73281}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NajdłuższeImię", "NajdłuższeImię\NajdłuższeImię.pyproj", "{C521C44A-79CE-4776-93B5-4EDC5F98B430}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +35,24 @@ Global
 		{D88353DD-5849-4A4B-83AB-9673A165A254}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98DA0300-1668-41C6-A0B0-0F81727FE823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{98DA0300-1668-41C6-A0B0-0F81727FE823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F6DD6E1-69F7-499D-A0E7-CEF245213492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F6DD6E1-69F7-499D-A0E7-CEF245213492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AD8E52-84BA-4AE0-BA8D-29FFB97B3108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AD8E52-84BA-4AE0-BA8D-29FFB97B3108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0984E8A-C283-474B-A5BE-D0A99A9468BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0984E8A-C283-474B-A5BE-D0A99A9468BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4BBF88-77B5-4912-B2EE-3815297D5E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4BBF88-77B5-4912-B2EE-3815297D5E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2842EDE0-BF9D-40BF-8C53-0E8665ED82F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2842EDE0-BF9D-40BF-8C53-0E8665ED82F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC14410-A0CF-4334-AAF5-34FBFECC9759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC14410-A0CF-4334-AAF5-34FBFECC9759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EA989E-3306-42EF-8BE3-FDE33179EAD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EA989E-3306-42EF-8BE3-FDE33179EAD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F9DA46-7BBE-40EA-992A-67C9D0D73281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F9DA46-7BBE-40EA-992A-67C9D0D73281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C521C44A-79CE-4776-93B5-4EDC5F98B430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C521C44A-79CE-4776-93B5-4EDC5F98B430}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

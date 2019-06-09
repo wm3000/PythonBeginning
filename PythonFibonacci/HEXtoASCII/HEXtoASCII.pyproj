@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>98da0300-1668-41c6-a0b0-0f81727fe823</ProjectGuid>
+    <ProjectGuid>3f6dd6e1-69f7-499d-a0e7-cef245213492</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PythonApplication2.py</StartupFile>
+    <StartupFile>HEXtoASCII.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>PythonApplication2</Name>
-    <RootNamespace>PythonApplication2</RootNamespace>
+    <Name>HEXtoASCII</Name>
+    <RootNamespace>HEXtoASCII</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="PythonApplication2.py" />
+    <Compile Include="HEXtoASCII.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
