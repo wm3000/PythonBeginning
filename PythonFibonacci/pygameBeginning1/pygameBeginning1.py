@@ -86,8 +86,6 @@ while run:
     
     redrawGameWindow()
         
-
-
 pygame.quit()
 
 
